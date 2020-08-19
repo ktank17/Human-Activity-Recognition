@@ -1,4 +1,4 @@
-## Capstone Project - Human Activity Recognition
+## Human Activity Recognition - Capstone Project (Undergrad - 2019)
 Recognizing human activities using Deep Learning Techniques
 
 View the project notebook here - [Link to Jupyter Notebook](http://nbviewer.jupyter.org/github/MrinalJain17/Human-Activity-Recognition/blob/master/human_activity_recognition.ipynb)
